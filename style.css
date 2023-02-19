@@ -1,0 +1,51 @@
+.header {
+  height: 80px;
+  background: color #012d63;
+}
+
+.nav {
+}
+
+.logo__link {
+}
+
+.logo {
+}
+
+.nav__list {
+}
+
+.nav__list--item {
+}
+
+.nav__list--link {
+}
+
+.language__list {
+}
+
+.language__list--item {
+}
+
+.language__list--link {
+}
+
+.hero {
+
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+  
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+  }
+
+.
